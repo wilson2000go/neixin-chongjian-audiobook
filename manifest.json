@@ -1,0 +1,82 @@
+{
+  "id": "neixin_chongjian",
+  "title": "内心的重建",
+  "author": "维尼老师",
+  "category": "psyche",
+  "audio_dir": "neixin_chongjian",
+  "repo": "wilson2000go/neixin-chongjian-audiobook",
+  "tracks": [
+    {
+      "index": 1,
+      "title": "第一章 心理成长，需要科学指导",
+      "file": "audio/neixin_chongjian/01_第一章_心理成长，需要科学指导.mp3",
+      "duration": 1554
+    },
+    {
+      "index": 2,
+      "title": "第二章 心理成长的钥匙：认知疗法",
+      "file": "audio/neixin_chongjian/02_第二章_心理成长的钥匙_认知疗法.mp3",
+      "duration": 2445
+    },
+    {
+      "index": 3,
+      "title": "第三章 内心强大的神器：三种思维",
+      "file": "audio/neixin_chongjian/03_第三章_内心强大的神器_三种思维.mp3",
+      "duration": 1407
+    },
+    {
+      "index": 4,
+      "title": "第四章 影响我们的神秘力量：驱力",
+      "file": "audio/neixin_chongjian/04_第四章_影响我们的神秘力量_驱力.mp3",
+      "duration": 1171
+    },
+    {
+      "index": 5,
+      "title": "第五章 少有人掌握的情绪奥秘",
+      "file": "audio/neixin_chongjian/05_第五章_少有人掌握的情绪奥秘.mp3",
+      "duration": 1841
+    },
+    {
+      "index": 6,
+      "title": "第六章 童年会伤人，如何看待环境影响",
+      "file": "audio/neixin_chongjian/06_第六章_童年会伤人，如何看待环境影响.mp3",
+      "duration": 1501
+    },
+    {
+      "index": 7,
+      "title": "第七章 为什么说成功学害人不浅",
+      "file": "audio/neixin_chongjian/07_第七章_为什么说成功学害人不浅.mp3",
+      "duration": 1584
+    },
+    {
+      "index": 8,
+      "title": "第八章 接纳不完美的自己",
+      "file": "audio/neixin_chongjian/08_第八章_接纳不完美的自己.mp3",
+      "duration": 1072
+    },
+    {
+      "index": 9,
+      "title": "第九章 顺其自然的人生态度",
+      "file": "audio/neixin_chongjian/09_第九章_顺其自然的人生态度.mp3",
+      "duration": 1599
+    },
+    {
+      "index": 10,
+      "title": "第十章 如何有效改善性格",
+      "file": "audio/neixin_chongjian/10_第十章_如何有效改善性格.mp3",
+      "duration": 1758
+    },
+    {
+      "index": 11,
+      "title": "第十一章 建立良好的人际关系",
+      "file": "audio/neixin_chongjian/11_第十一章_建立良好的人际关系.mp3",
+      "duration": 883
+    },
+    {
+      "index": 12,
+      "title": "第十二章 心理问题是可以理解的",
+      "file": "audio/neixin_chongjian/12_第十二章_心理问题是可以理解的.mp3",
+      "duration": 2285
+    }
+  ]
+}
